@@ -1,5 +1,5 @@
 # MobiUx-Assignment
- Download this data set containing sales data from an ice cream parlour. Write a program that reads this data and reports:      
+ Download this data(https://www.mobiux.in/assignment/sales-data.txt) set containing sales data from an ice cream parlour. Write a program that reads this data and reports:      
  1.Total sales of the store.     
  2.Month wise sales totals.    
  3.Most popular item (most quantity sold) in each month.     
